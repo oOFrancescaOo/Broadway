@@ -29,7 +29,6 @@ p {
 }
 
 a {
-  font-size: 18px;
   color: white;
 }
 
@@ -38,7 +37,8 @@ ul {
 }
 
 li {
-  padding-top: 10px;  
+  padding-top: 10px;
+  font-size: 18px;
 }
 
 footer {
